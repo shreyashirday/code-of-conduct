@@ -22,6 +22,7 @@ These are the rules/the things this space is not for. We tried to keep them shor
 * No spam. If Gmail wouldn't put it in my inbox, it shouldn't be in HH. This includes doing attention-catching things like writing in all caps, using linkbait headlines, or otherwise editing the post or preview to pop out at the cost of other posts.
 * No recruiting for your startup, company, job, or organization. Consider posting in [HH Job Listings](http://hh.gd/jobs) instead.
 * No posting requests or giveaways for free stuff/invites. Those belong in [HH Free Stuff](http://hh.gd/freestuff).
+* No re-posting or re-asking the same question. Chances are if your question is something like "What is a good laptop for college" or "How do I start Android development", it's already been asked. So please, use Facebook's search function to see if it's been asked. If not, once a new question has been asked, and it has garnered enough responses or "likes", it will be saved into a HackerFAQ.txt file which wille be saved in "Files" tab of the Hackathon Hackers subgroup. So, check there too, as Facebook's search function can be limiting at times. 
 * No illegal/pirated content, requests for it, or information regarding the distribution of it.
 
 ### Inclusivity Statement
